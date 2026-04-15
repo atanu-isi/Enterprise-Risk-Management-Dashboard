@@ -1,5 +1,5 @@
 # Enterprise Risk Management Dashboard
-# Python >= 3.9 required
+# Recommended Python: 3.10 or 3.11
 
 fastapi==0.111.0
 uvicorn[standard]==0.29.0
